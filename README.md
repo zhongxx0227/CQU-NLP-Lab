@@ -1,10 +1,10 @@
 # CQU-NLP-Lab
-重庆大学 自然语言处理 课程实验
+Course Projects for the Natural Language Processing (NLP) class at Chongqing University
 
-## Lab1 bigram
+## Lab 1: Bigram Model
 
-人民日报语料库训练二元语法模型，给出任意一句话的概率。
+Trained a bigram language model on the People’s Daily corpus to calculate the probability of any given sentence.
 
-## Lab2 HMM
+## Lab 2: Hidden Markov Model (HMM)
 
-HMM + 维特比算法 实现 拼音转汉字
+Implemented pinyin-to-Chinese character conversion using a Hidden Markov Model combined with the Viterbi algorithm.
